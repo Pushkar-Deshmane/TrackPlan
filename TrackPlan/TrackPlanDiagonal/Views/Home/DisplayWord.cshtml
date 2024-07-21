@@ -1,0 +1,28 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Display Word";
+    var word = ViewBag.Word as string;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Diadonal Word Display</h1>
+
+    <table class="mb-5">
+        @for (int i = 0; i < word.Length; i++)
+        {
+            <tr>
+                <td style="padding-left:@(i * 20)px">@word[i]</td>
+            </tr>
+        }
+    </table>
+
+    <h2>Reversed:</h2>
+    <table>
+        @for (int i = 0; i < word.Length; i++)
+        {
+            <tr>
+                <td style="padding-left:@((word.Length - i - 1) * 20)px">@word[i]</td>
+            </tr>
+        }
+    </table>
+</div>

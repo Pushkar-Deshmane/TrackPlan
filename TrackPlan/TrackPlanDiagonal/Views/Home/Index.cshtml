@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Enter a Word</h1>
+    <form asp-action="Index" method="post">
+        <input type="text" name="word" class="form-control" />
+        <button type="submit" class="btn btn-primary mt-3" style="width:120px">Go</button>
+    </form>
+</div>
