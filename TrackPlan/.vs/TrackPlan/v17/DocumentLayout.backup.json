@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|c:\\users\\pushkar\\source\\repos\\trackplan\\trackplandiagonal\\views\\home\\displayword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|solutionrelative:trackplandiagonal\\views\\home\\displayword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|c:\\users\\pushkar\\source\\repos\\trackplan\\trackplandiagonal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|solutionrelative:trackplandiagonal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|c:\\users\\pushkar\\source\\repos\\trackplan\\trackplandiagonal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|solutionrelative:trackplandiagonal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|c:\\users\\pushkar\\source\\repos\\trackplan\\trackplandiagonal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCAEFA6E-BB09-461C-BDD6-F14BC074C1F0}|TrackPlanDiagonal\\TrackPlanDiagonal.csproj|solutionrelative:trackplandiagonal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,59 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TrackPlanDiagonal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TrackPlanDiagonal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T18:40:23.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TrackPlanDiagonal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TrackPlanDiagonal\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAjwB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T18:34:17.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisplayWord.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Home\\DisplayWord.cshtml",
-              "RelativeDocumentMoniker": "TrackPlanDiagonal\\Views\\Home\\DisplayWord.cshtml",
-              "ToolTip": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Home\\DisplayWord.cshtml",
-              "RelativeToolTip": "TrackPlanDiagonal\\Views\\Home\\DisplayWord.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T18:01:20.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrackPlanDiagonal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pushkar\\source\\repos\\TrackPlan\\TrackPlanDiagonal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TrackPlanDiagonal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T17:30:55.038Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
